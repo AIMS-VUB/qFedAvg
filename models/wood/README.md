@@ -1,5 +1,5 @@
 # Explanation
-This pretrained model comes from the MIDIconsortium BrainAge repository of David Wood et al. 2024 and colleagues. Click [here](https://github.com/AIMS-VUB/qFedAvg#:~:text=model%20obtained%20from-,BrainAge%20T1%20model,-.%20This%20model%20file) to go to the original location.
+This pretrained model comes from the MIDIconsortium BrainAge repository of David Wood et al. 2024 and colleagues. Click [here](https://github.com/MIDIconsortium/BrainAge/blob/main/HBM_models/T1/model.pt) to go to the original location.
 
 ## How to cite
 When starting from this model, please cite [the following paper](https://pubmed.ncbi.nlm.nih.gov/38433665/):
